@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b694cbe7.css",
+    "main.js": "/static/js/main.d2e350df.js",
+    "static/media/music.mp3": "/static/media/music.4b449c42fb47ae86fafb.mp3",
+    "static/media/novios3.jpg": "/static/media/novios3.8c2f5bf0a4fdddcfd015.jpg",
+    "static/media/flores.png": "/static/media/flores.aeb74a05d87a51b160ac.png",
+    "static/media/Photo1.jpeg": "/static/media/Photo1.1c75396424d78c2a4aac.jpeg",
+    "static/media/logo.png": "/static/media/logo.9a1bdcc2b77efda28548.png",
+    "static/media/photo2.jpeg": "/static/media/photo2.66d0e476353ad527c215.jpeg",
+    "static/media/flores2.svg": "/static/media/flores2.1dcae2197818330ef1185f8f9afc99c7.svg",
+    "index.html": "/index.html",
+    "main.b694cbe7.css.map": "/static/css/main.b694cbe7.css.map",
+    "main.d2e350df.js.map": "/static/js/main.d2e350df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b694cbe7.css",
+    "static/js/main.d2e350df.js"
+  ]
+}
